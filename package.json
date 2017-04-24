@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "name": "create-table",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meganmcgeee/create-table.git",
+  "author": "meganmcgeee <meganpmcgee@gmail.com>",
+  "license": "MIT"
+}
